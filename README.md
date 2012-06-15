@@ -18,3 +18,6 @@ Merged two extensions together:
 - [Add a note with tags to Evernote](http://meeiw.tumblr.com/post/10559539458/notes-with-tag-support-with-evernote-and-alfred) by [@meeiw](http://twitter.com/#!/meeiw/)
 
 Check also other extensions on [Alfredapp.com](http://support.alfredapp.com/extensions)
+
+More infor about Alfred App: http://www.alfredapp.com/
+You need the powerpack to run the extensions: http://www.alfredapp.com/powerpack/
