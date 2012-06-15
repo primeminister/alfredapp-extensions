@@ -9,10 +9,10 @@ Thanks to Robin Enhorn and [phpfunk](https://github.com/phpfunk/alfred-spotify-c
 
 Evernote
 --------
-**Search**
+### Search
 Search through evernote taken from [@rebootit](https://twitter.com/#!/rebootit)
 
-**Create a note with title, body text and tags**
+### Create a note with title, body text and tags
 Merged two extensions together:
 - [Add a note to Evernote](http://www.ryoku.org/2011/07/creating-notes-in-evernote-with-alfred/) by A.J.D. Luiken
 - [Add a note with tags to Evernote](http://meeiw.tumblr.com/post/10559539458/notes-with-tag-support-with-evernote-and-alfred) by [@meeiw](http://twitter.com/#!/meeiw/)
