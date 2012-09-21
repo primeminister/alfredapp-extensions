@@ -21,3 +21,17 @@ Check also other extensions on [Alfredapp.com](http://support.alfredapp.com/exte
 
 More infor about Alfred App: http://www.alfredapp.com/
 You need the powerpack to run the extensions: http://www.alfredapp.com/powerpack/
+
+Messages
+--------
+Use messages through Alfredapp. Most code by [silouane20](http://silouane20.tumblr.com/post/12552813233/ichat-alfred)
+
+### Use:
+chat in                             -> Log in with all accounts
+chat out                            -> Log out with all accounts
+chat ava                            -> set your status to available
+chat away                           -> set your status to away
+chat [song, itunes or track]        -> set your status with the name of current song in iTunes
+chat spot                           -> set your status with the name of current song in Spotify
+chat your_message @name_of_contact  -> send message to contact. Name of contact can be first or lastname
+chat @name_of_contact               -> Open chat window with buddy name. Name of contact can be first or lastname
